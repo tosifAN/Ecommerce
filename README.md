@@ -1,7 +1,7 @@
 Website Url - https://quaint-ant-glasses.cyclic.app/
 
-# Ecommerce
-This is Full Stack Ecommerce Site
+# Full Stack Ecommerce site
+
 
 Used -------------
           React,
