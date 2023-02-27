@@ -16,11 +16,11 @@ Used -------------
   
   
  Key Features -------------------
-           Admin Panel
-           User Panel
-           Payment Option
-           Cart System
-           Login/SignUp
-           Filters
+           Admin Panel,
+           User Panel,
+           Payment Option,
+           Cart System,
+           Login/SignUp,
+           Filters,
            Searching 
            
